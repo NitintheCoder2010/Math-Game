@@ -8,3 +8,8 @@ background:blueviolet;
     float: none;
     border-radius:15px;
 }
+
+#player1_name,#player2_name {
+    display:inline;
+    margin-left: 20px; 
+}
